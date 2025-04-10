@@ -65,4 +65,7 @@ These projects are advanced capstone challenges from **TryHackMe**, designed to 
 
 
 ## 📬 Get in Touch  
-I’m always open to collaboration and learning opportunities. Feel free to explore my work and reach out!
+I’m always open to collaboration and learning opportunities. Feel free to explore my work and reach out!  
+
+📧 **Email:** joecarter070@gmail.com  
+🔗 **LinkedIn:** [Joe Carter](https://www.linkedin.com/in/joe-carter-468b91332)
