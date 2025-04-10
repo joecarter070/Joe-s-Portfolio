@@ -1,4 +1,4 @@
-# 🚀 Joe Carter's Portfolio  
+# 🦉 Joe Carter's Portfolio
 
 Welcome to my GitHub portfolio! Here, you’ll find **labs and projects** showcasing my expertise in **cybersecurity, forensics, and software development.**  
 
