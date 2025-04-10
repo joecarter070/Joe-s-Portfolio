@@ -39,7 +39,7 @@ Here are labs from **TryHackMe's SOC Level 1** pathway, covering various cyberse
 
 **Technologies Used:** Python, Flask, SQL, JavaScript, HTML, CSS.  
 
-### 🛡️ TryHackMe Capstone Projects  
+## 🛡️ TryHackMe Capstone Projects  
 
 These projects are advanced capstone challenges from **TryHackMe**, designed to test investigative, forensic, and incident response skills.  
 
