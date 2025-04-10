@@ -43,19 +43,19 @@ Here are labs from **TryHackMe's SOC Level 1** pathway, covering various cyberse
 
 These projects are advanced capstone challenges from **TryHackMe**, designed to test investigative, forensic, and incident response skills.  
 
-#### 📄 [Tempest – Capstone Project](projects/Tempest_Capstone_Project.pdf)  
+#### 📄 [Tempest – Capstone Project](Projects/Tempest_Capstone_Project.pdf)  
 **Summary:** A cybersecurity investigative challenge covering **network intrusion analysis and forensic recovery techniques**.  
 **Skills:** Intrusion detection, network packet analysis, forensic reconstruction.  
 
-#### 📄 [Boogeyman 1 – Capstone Project](projects/Boogeyman1_Capstone_Project.pdf)  
+#### 📄 [Boogeyman 1 – Capstone Project](Projects/Boogeyman1_Capstone_Project.pdf)  
 **Summary:** Focuses on **threat intelligence and malware behavior analysis**, identifying malicious activity in enterprise environments.  
 **Skills:** Malware reverse engineering, threat hunting, SOC alert investigation.  
 
-#### 📄 [Boogeyman 2 – Capstone Project](projects/Boogeyman2_Capstone_Project.pdf)  
+#### 📄 [Boogeyman 2 – Capstone Project](Projects/Boogeyman2_Capstone_Project.pdf)  
 **Summary:** Expands on **incident response techniques**, diving into post-exploitation analysis and attacker persistence tactics.  
 **Skills:** Persistence mechanisms, log analysis, adversary tracking.  
 
-#### 📄 [Boogeyman 3 – Capstone Project](projects/Boogeyman3_Capstone_Project.pdf)  
+#### 📄 [Boogeyman 3 – Capstone Project](Projects/Boogeyman3_Capstone_Project.pdf)  
 **Summary:** Advanced forensic investigation focusing on **compromised systems and digital evidence preservation**.  
 **Skills:** File system forensics, data recovery, legal chain of custody.  
 
