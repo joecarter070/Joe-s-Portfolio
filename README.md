@@ -1,4 +1,6 @@
-# Joe-s-Portfolio
+# 🚀 Joe Carter's Portfolio  
+
+Welcome to my GitHub portfolio! Here, you’ll find **labs and projects** showcasing my expertise in **cybersecurity, forensics, and software development.**  
 
 ## 📝 Labs
 
@@ -60,3 +62,7 @@ These projects are advanced capstone challenges from **TryHackMe**, designed to 
 **Skills:** File system forensics, data recovery, legal chain of custody.  
 
 ---
+
+
+## 📬 Get in Touch  
+I’m always open to collaboration and learning opportunities. Feel free to explore my work and reach out!
