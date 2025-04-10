@@ -4,7 +4,7 @@
 
 Here are labs from **TryHackMe's SOC Level 1** pathway, covering various cybersecurity and forensics topics:
 
-## 📄 [Critical - Memory Forensics](labs/Critical-Memory-Forensics.pdf)
+## 📄 [Critical - Memory Forensics](Labs/Critical_Memory_Forensics.pdf)
 **Summary:** Explores **volatile memory forensics**, teaching methods to extract and analyze system memory dumps for detecting sophisticated cyber threats.  
 **Skills:** RAM dump analysis, volatility framework, incident investigation.  
 
